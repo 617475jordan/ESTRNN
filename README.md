@@ -23,6 +23,7 @@ by Zhihang Zhong, Ye Gao, Yinqiang Zheng, Bo Zheng
 - opencv-python
 - lmdb
 - thop
+- tqdm
 
 
 ## Training
